@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/archive/
+data/raw/
+*.zip
+
+# Models
+models/*.pth
+models/*.pt
+
+# Outputs that can be regenerated
+outputs/temp/
+
+# System
+.DS_Store
