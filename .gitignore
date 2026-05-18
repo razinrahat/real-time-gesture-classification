@@ -21,3 +21,9 @@ outputs/temp/
 
 # System
 .DS_Store
+
+# Model checkpoints
+models/*.pth
+models/*.pt
+models/**/*.pth
+models/**/*.pt
